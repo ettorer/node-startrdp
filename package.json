@@ -1,0 +1,19 @@
+{
+  "name": "startrdp",
+  "version": "1.0.0",
+  "description": "mstsc (RDP) connection with autologin",
+  "main": "startrdp.js",
+  "devDependencies": {
+    "rdpcred": "git://github.com/ettorer/npm-rdpcred.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RDP",
+    "mstsc",
+    "autologin"
+  ],
+  "author": "Ettore Roberto Rizza",
+  "license": "MIT"
+}
